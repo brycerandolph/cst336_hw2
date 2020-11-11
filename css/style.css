@@ -1,0 +1,76 @@
+body
+{
+    font-family: Arial;
+    text-align:center;
+    background-color: black;
+    color: gold;
+}
+
+h1, footer
+{
+    background-color: black;
+    color: gold;
+}
+header
+{
+    text-align:center;
+}
+
+.machine
+{
+    display: flex;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.hr1 {
+  border-top: 1px solid gold;
+}
+
+.rules
+{
+    font-size: 20pt;
+    background-color: black;
+    color: gold;
+}
+
+button
+{
+    text-align: center;
+    color: black;
+    margin-top: 25px;
+    width: 200px;
+    height: 45px;
+    border: 5px;
+}
+
+.imgManip
+{
+    width: 200px; 
+    height: 200px;
+    margin: 25px;
+    border: 7px solid white;
+}
+
+.correct {
+    font-size: 18pt;
+    color: green;
+}
+
+
+.incorrect
+{
+    font-size: 18pt;
+    color: red;
+}
+
+li
+{
+    list-style: none;
+}
+
+footer{
+    font-size: 10pt;
+}
